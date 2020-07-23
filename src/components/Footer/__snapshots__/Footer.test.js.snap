@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render the Footer component 1`] = `
+<div
+  class="test-classname"
+>
+  <div
+    class="footer__container"
+  >
+    <p
+      class="footer__p"
+    >
+      Developed using React + Redux -
+       
+      <a
+        href="https://github.com/usama-uk"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+       By USAMA KHALID
+      </a>
+    </p>
+  </div>
+</div>
+`;
