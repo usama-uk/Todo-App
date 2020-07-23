@@ -4,7 +4,7 @@ A todo app built with React + Redux.
 
 ## Demo
 
-You can access the final project at: [just-another-todo-app.now.sh](https://just-another-todo-app.now.sh/) 👈
+You can access the final project at: 👈
 
 ## Pre-requisites
 
